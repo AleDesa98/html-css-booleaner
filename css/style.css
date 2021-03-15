@@ -41,15 +41,15 @@ th {
     background-color: yellow;
 }
 
+.potrebbero-interessarti{
+    color: grey;
+}
+
 .foto1{
     width: 250px;
     height: 200px;
     background-image: url("../img/monitor.jpg");
     background-size: cover;
-}
- 
-.potrebbero-interessarti{
-    color: grey;
 }
 
 .foto2{
