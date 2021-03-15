@@ -1,0 +1,50 @@
+.pattern {
+    background-image: url("img/pattern.png");
+    background-color: rgba(0, 0, 255, 0.2);
+    height: 100px;
+
+}
+
+.descrizione-foto {
+    font-size: 14px;
+}
+
+th {
+    color: white;
+    background-color: #20A9E5;
+    text-align: left;
+}
+
+.azzurro {
+    background-color: #B1E5F2;
+}
+
+.titolo-foto1 {
+    height: 200px;
+    width: 250px;
+    background-image: url("img/monitor.jpg");
+    background-size: cover;
+    background-color: yellow;
+
+}
+
+.titolo-foto2 {
+    height: 200px;
+    width: 250px;
+    background-image: url("img/monitor.jpg");
+    background-size: cover;
+    background-color: green;
+
+}
+
+.spazio{
+    height: 10px;
+}
+
+.evidenziato-giallo{
+    background-color: yellow;
+}
+
+.blu{
+    color: blue;
+}
