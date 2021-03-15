@@ -1,12 +1,26 @@
 .pattern {
-    background-image: url("img/pattern.png");
-    background-color: rgba(0, 0, 255, 0.2);
+    background-image: url("../img/pattern.png");
+    background-color: rgba(0, 0, 255, 0.4);
     height: 100px;
+    background-size: cover;
+    background-size: 40%;
+}
 
+.logo{
+    width: 200px;
+    text-align: top;
+}
+
+.blu{
+    color: blue;
 }
 
 .descrizione-foto {
     font-size: 14px;
+}
+
+table {
+    border-spacing: 0px;
 }
 
 th {
@@ -19,24 +33,6 @@ th {
     background-color: #B1E5F2;
 }
 
-.titolo-foto1 {
-    height: 200px;
-    width: 250px;
-    background-image: url("img/monitor.jpg");
-    background-size: cover;
-    background-color: yellow;
-
-}
-
-.titolo-foto2 {
-    height: 200px;
-    width: 250px;
-    background-image: url("img/monitor.jpg");
-    background-size: cover;
-    background-color: green;
-
-}
-
 .spazio{
     height: 10px;
 }
@@ -45,6 +41,25 @@ th {
     background-color: yellow;
 }
 
-.blu{
-    color: blue;
+.foto1{
+    width: 250px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
 }
+ 
+.potrebbero-interessarti{
+    color: grey;
+}
+
+.foto2{
+    width: 250px;
+    height: 200px;
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+}
+
+.testo-foto{
+    color: white;
+}
+
